@@ -1,1 +1,1 @@
-read report.pdf for more info
+read sample-output.pdf for more info
